@@ -1,3 +1,4 @@
 ﻿  main.cpp
+  LINK : 没有找到 E:\Github\Test\HelloWorld\x64\Debug\HelloWorld.exe 或上一个增量链接没有生成它；正在执行完全链接
   HelloWorld.vcxproj -> E:\Github\Test\HelloWorld\x64\Debug\HelloWorld.exe
   HelloWorld.vcxproj -> E:\Github\Test\HelloWorld\x64\Debug\HelloWorld.pdb (Partial PDB)
